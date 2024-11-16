@@ -27,3 +27,4 @@
 /home/petar/Desktop/Internship-2-C-Sharp/domaci2/obj/Debug/net8.0/domaci2.pdb
 /home/petar/Desktop/Internship-2-C-Sharp/domaci2/obj/Debug/net8.0/domaci2.genruntimeconfig.cache
 /home/petar/Desktop/Internship-2-C-Sharp/domaci2/obj/Debug/net8.0/ref/domaci2.dll
+/home/petar/Desktop/Internship-2-C-Sharp/domaci2/obj/Debug/net8.0/domaci2.sourcelink.json

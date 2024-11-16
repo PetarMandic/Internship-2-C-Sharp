@@ -98,24 +98,14 @@ class Program
     {
 
         Console.Write("Unesite ime: ");
-        var NameOfUserInput = "";
-        var Action = false;
-        while (!Action)
-        {
-            NameOfUserInput = Console.ReadLine();
-        }
+        var NameOfUserInput = Console.ReadLine();
 
         Console.Write("Unesite prezime: ");
-        var SurnameOfUserInput = "";
-        Action = false;
-        while (!Action)
-        {
-            SurnameOfUserInput = Console.ReadLine();
-        }
+        var SurnameOfUserInput = Console.ReadLine();
 
         Console.Write("Unesite id: ");
         var Id = 0;
-        Action = false;
+        var Action = false;
         while (!Action)
         {
             Action = int.TryParse(Console.ReadLine(), out Id);
