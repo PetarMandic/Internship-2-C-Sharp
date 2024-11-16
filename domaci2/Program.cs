@@ -117,8 +117,7 @@ class Program
                         
             }
         }
-
-        var i = 0;
+        
         Console.Write("Unesite datum rođenja: ");
         var Date = false;
         DateTime DateInput = DateTime.MinValue;
